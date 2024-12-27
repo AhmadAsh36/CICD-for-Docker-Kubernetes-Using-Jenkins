@@ -1,4 +1,4 @@
-![Alt text](
+![Alt text](CICD-for-Docker-Kubernetes-Using-Jenkins.png)
 # CI/CD for Docker and Kubernetes Using Jenkins
 
 ## Project Overview
